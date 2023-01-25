@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1674631443351",
+      "text": "Breakfeast Super",
+      "date": "2023-01-25T11:41:51.819Z",
+      "isDone": true
+    },
+    {
+      "id": "1674631576370",
+      "text": "Lunch Super",
+      "date": "2023-01-25T08:49:53.029Z",
+      "isDone": true
+    },
+    {
+      "id": "1674631594544",
+      "text": "Wake up early",
+      "date": "2023-01-25T07:26:34.544Z",
+      "isDone": false
+    }
+  ]
+}
